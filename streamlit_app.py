@@ -52,7 +52,7 @@ st.markdown(
 
 # 6. 이미지 표시
 st.write("이미지 표시 예제")
-st.image("https://www.streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png", caption="Streamlit 로고")
+st.image("https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2193829299e031d6e8a722ff9476241c04b2166f-1280x720.jpg?auto=format&fit=fill&q=80&w=1280", caption="Streamlit 로고")
 
 # 7. 유튜브 링크 (썸네일 표시)
 st.write("유튜브 동영상 예제")
